@@ -1,3 +1,4 @@
+
 import classes from "./page.module.css";
 import {getMeal} from "@/lib/meals";
 import Image from "next/image";
